@@ -15,7 +15,7 @@ Este bot foi criado como parte de um desafio técnico para a FURIA, com o objeti
 1. Clone o repositório:
 ```bash
 git clone https://github.com/mubelesa/telegram_bot
-cd telegram_bot
+cd furia-bot
 ```
 
 2. Instale dependências:
