@@ -14,8 +14,8 @@ Este bot foi criado como parte de um desafio técnico para a FURIA, com o objeti
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/mubelesa/telegram_bot
-cd furia-bot
+git clone https://github.com/mubelesa/telegram_bot__FURIA_ESports
+cd telegram_bot__FURIA_ESports
 ```
 
 2. Instale dependências:
